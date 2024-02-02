@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Talesu">
-    <img src="https://komarev.com/ghpvc/?username=talesu&label=Profile%20views&color=0e75b6&style=flat" alt="talesu" />
+    <img src="https://komarev.com/ghpvc/?username=talesu&label=Profile%20views&color=blueviolet&style=flat" alt="talesu" />
   </a>
   <a href="https://github.com/Talesu">
     <img src="https://img.shields.io/github/followers/talesu?label=Followers" alt="talesu" />
