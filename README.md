@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Talesu">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Network+Engineer;Minecraft+Server+Developer;Optimization+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Sys+Admin;Network+Engineer;Minecraft+Server+Developer;Discord+->+talesu;Always+learning+new+things&center=true&width=380&height=35">
   </a>
 </p>
 
