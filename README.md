@@ -42,7 +42,7 @@
 ---
 
 ### 🐱 My Github Stats:
-![Talesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=talesu&show_icons=true&title_color=d44b3e&icon_color=d44b3e&text_color=676e95&bg_color=282c34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Talesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=talesu&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 Last Edited on: 02/02/2024
