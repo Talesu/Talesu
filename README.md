@@ -23,7 +23,6 @@
 ### 🤵 About Me:
 - 🌱 I’m currently learning Docker and Kubernetes deployment.
 - 💬 Developing a Minecraft Project in my free time called [UnixMC](https://github.com/UnixMC-Project).
-- 💽 Let's connect on [Discord](https://discord.gg/unixmc)
 - ⚡ Fun fact: I made a Rick Astley block in Minecraft.
 
 <p align="center">
