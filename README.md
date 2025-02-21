@@ -1,6 +1,8 @@
+
+
 <h1 align="center">
   Greetings! I'm Talesu!
-  <a href="https://github.com/t">
+  <a href="https://github.com/Talesu">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
 </h1>
@@ -16,54 +18,30 @@
 
 <p align="center">
   <a href="https://github.com/Talesu">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Sys+Admin;Network+Engineer;Minecraft+Server+Developer;Discord+->+talesu;Always+learning+new+things&center=true&width=380&height=35">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Leader;Global+Game+Studio+Founder;Visionary+in+Gaming+Experience;Collaborative+Team+Builder;Always+Learning+New+Things&center=true&width=380&height=35">
   </a>
+</p>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/Talesu/Talesu/blob/main/announcement_release.jpg" width="70%" />
 </p>
 
 ### 🤵 About Me:
-- 🌱 I’m currently learning Docker and Kubernetes deployment.
-- 💬 Developing a Minecraft Project in my free time called [UnixMC](https://github.com/UnixMC-Project).
-- ⚡ Fun fact: I made a Rick Astley block in Minecraft.
-
-<p align="center">
-  <a href="https://www.java.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> 
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
-  </a>
-  <a href="https://kubernetes.io">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="45"/>
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
-  </a>
-  <a href="https://ubuntu.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="45" height="45"/>
-  </a>
-  <a href="https://redis.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>  
-  </a>
-  <a href="https://www.ansible.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>  
-  </a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="45" height="45"/>  
-  </a>
-</p>
-
+- Hi, I'm Talesu.
+- I'm a 22-year-old developer from the Netherlands.
+- I lead UnixMC (also known as UnixLabs), a global, volunteer-driven game studio.
+- Our mission is to create an exploit-free gaming experience that prioritizes player enjoyment over profit.
+- This vision has been a lifelong passion of mine, inspired by a childhood dream of setting up a Minecraft Project to fill what I felt was missing in the gaming world.
+- I balance university, work, and other projects by structuring my day into focused creative sessions and manager days.
+- This approach helps me dive deep into technical work while nurturing a collaborative environment where team leads make decisions and everyone contributes.
+- Leading UnixMC has been incredibly rewarding, as I watch passionate volunteers work towards a bigger goal, make new friends, and hone my leadership, communication, and management skills.
+- As we prepare to release our beta version and step into the spotlight with a minimum viable product, I’m more determined than ever to bring this vision to life.
 
 ---
 
 ### 🐱 My Github Stats:
 ![Talesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=talesu&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-Last Edited on: 02/02/2024
+
+Last Edited on: 21/02/2025
